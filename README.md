@@ -1,16 +1,14 @@
-## Hi there 👋
+###  Hi, I am Paras
 
-<!--
-**paras1234-eng/paras1234-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently started learning Python and SQL, and built my first automation project combining both.
 
-Here are some ideas to get you started:
+ Check out my project here: [SSI Validation Engine](https://github.com/paras1234-eng/ssi-validation-engine)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 This beginner-level project demonstrates how to:
+- Clean and validate Standing Settlement Instructions (SSIs)
+- Use Python (pandas) and SQLite
+- Process data, detect issues, and save output
+
+ I created this to showcase my interest in data automation and operations.
+
+Thanks for visiting!
