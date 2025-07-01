@@ -3,10 +3,12 @@ Hi, I am Paras
 I recently started learning Python and SQL, and built two automation projects combining both.
 
 [SSI Validation Engine](https://github.com/paras1234-eng/ssi-validation-engine)
+
 A beginner-level project that demonstrates how to:
 Clean and validate Standing Settlement Instructions (SSIs)
 Use Python (pandas) and SQLite
 Process data, detect issues, and save outputs
+
 [https://github.com/paras1234-eng/corp_action_recon_cash](https://github.com/paras1234-eng/corp_action_recon_cash)
 
 This project automates:
