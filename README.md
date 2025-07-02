@@ -6,7 +6,7 @@ I am passionate about leveraging technology to automate and streamline complex b
 
 #### 1. SSI Validation Engine
 
-A beginner-level project focused on cleaning and validating Standing Settlement Instructions (SSIs) — a critical part of trade settlement processes.  
+A beginner-level project focused on cleaning and validating Standing Settlement Instructions (SSIs), a critical part of trade settlement processes.  
 Using Python (pandas) and SQLite, I built a solution to process large datasets, detect discrepancies, and generate validation reports. This project demonstrates my ability to handle data quality challenges and automate repetitive tasks efficiently.  
 🔗 [View on GitHub](https://github.com/paras1234-eng/ssi-validation-engine)
 
