@@ -1,42 +1,33 @@
-Hi, I am Paras
+# Hi, I am Paras
 
-I recently started learning Python and SQL, and built two automation projects combining both, along with practical experience in Jira and Confluence for banking operations automation.
+I am passionate about leveraging technology to automate and streamline complex banking operations. Recently, I have been expanding my skills in Python and SQL by developing practical automation projects that combine coding with real-world workflows. Alongside this, I have gained hands-on experience with **Jira** and **Confluence**, two industry-standard tools widely used in banking and operations teams for task management and documentation.
 
-SSI Validation Engine
+### My Projects:
 
-A beginner-level project that demonstrates how to:
+#### 1. SSI Validation Engine
 
-Clean and validate Standing Settlement Instructions (SSIs)
+A beginner-level project focused on cleaning and validating Standing Settlement Instructions (SSIs) — a critical part of trade settlement processes.  
+Using Python (pandas) and SQLite, I built a solution to process large datasets, detect discrepancies, and generate validation reports. This project demonstrates my ability to handle data quality challenges and automate repetitive tasks efficiently.  
+🔗 [View on GitHub](https://github.com/paras1234-eng/ssi-validation-engine)
 
-Use Python (pandas) and SQLite
+#### 2. Corporate Actions Reconciliation & Cash Automation
 
-Process data, detect issues, and save outputs
+This project automates key operational tasks for fixed income instruments, including entitlement verification for coupon and redemption events, cash reconciliation, exception reporting, and generation of release instructions.  
+It showcases advanced SQL and Python skills applied to real-world banking scenarios, improving accuracy and reducing manual workload.  
+🔗 [View on GitHub](https://github.com/paras1234-eng/corp_action_recon_cash)
 
-https://github.com/paras1234-eng/corp_action_recon_cash
+#### 3. Banking Ops Jira Automation
 
-This project automates:
+To complement the above data-centric projects, I designed and documented a set of Jira automation rules tailored to banking operations workflows. These rules streamline task prioritization, auto-assignment, timely reminders for stagnant tasks, and automated closure of resolved tickets — all aligned with service level agreements (SLAs).  
+The detailed Standard Operating Procedure (SOP) is documented in **Confluence**, demonstrating my ability to produce clear, professional documentation alongside technical automation.  
+- 🔗 [GitHub Repository](https://github.com/paras1234-eng/banking-ops-jira-automation)  
+- 🔗 [Live Jira Automation Rules](https://paras00333.atlassian.net/jira/software/projects/BOAFA/settings/automation#/rule-list?systemLabelId=project&page=1&pageSize=20&sortKey=name&sortOrder=ASC)  
+- 🔗 [Confluence Documentation](https://paras00333.atlassian.net/wiki/people/712020:729c3c44-0fe2-4d05-af60-eae857c6ad2d/work)
 
-Entitlement checks for coupon/redemption events
+---
 
-Cash reconciliation for fixed income instruments
+These projects collectively illustrate my growing expertise in automation technologies, my understanding of banking operations processes, and my ability to communicate technical solutions effectively through documentation.
 
-Exception reporting and release instruction generation
+Feel free to explore the repositories and reach out if you have any questions or opportunities for collaboration.
 
-Banking Ops Jira Automation
-
-A project demonstrating task automation and workflow rules in Jira tailored for banking operations teams. It includes automation of:
-
-Task triage and priority labelling
-
-Automatic task assignment
-
-Stale task reminders
-
-Auto-closing of resolved issues
-
-SOP document and detailed workflow logic are available here:
-https://paras00333.atlassian.net/wiki/spaces/~712020729c3c440fe24d05af60eae857c6ad2d/pages/196610/Banking+Ops+Automation+Jira+Rules+SOP
-
-I created these to showcase my interest in data automation and real-world operations workflows.
-
-Thanks for visiting!
+Thank you for visiting!
