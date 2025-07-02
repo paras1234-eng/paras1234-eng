@@ -18,7 +18,7 @@ It showcases advanced SQL and Python skills applied to real-world banking scenar
 
 #### 3. Banking Ops Jira Automation
 
-To complement the above data-centric projects, I designed and documented a set of Jira automation rules tailored to banking operations workflows. These rules streamline task prioritization, auto-assignment, timely reminders for stagnant tasks, and automated closure of resolved tickets — all aligned with service level agreements (SLAs).  
+To complement the above data-centric projects, I designed and documented a set of Jira automation rules tailored to banking operations workflows. These rules streamline task prioritization, auto-assignment, timely reminders for stagnant tasks, and automated closure of resolved tickets all aligned with service level agreements (SLAs).  
 The detailed Standard Operating Procedure (SOP) is documented in **Confluence**, demonstrating my ability to produce clear, professional documentation alongside technical automation.  
 - 🔗 [GitHub Repository](https://github.com/paras1234-eng/banking-ops-jira-automation)  
 - 🔗 [Live Jira Automation Rules](https://paras00333.atlassian.net/jira/software/projects/BOAFA/settings/automation#/rule-list?systemLabelId=project&page=1&pageSize=20&sortKey=name&sortOrder=ASC)  
